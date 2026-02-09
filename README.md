@@ -1,4 +1,4 @@
-# IA-jeu-d-abeilles-BZZZ-Python
+# IA pour le jeu d'abeilles
 
 
 **Le jeu a été donné il fallait seulement créer l'IA**
