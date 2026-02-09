@@ -1,6 +1,11 @@
 # IA-jeu-d-abeilles-BZZZ-Python
 
 
+#Le jeu a été donné
+
+#mettre l'IA dans Jeu_BZZZ_IA/bzzz_moteur/ia
+
+
 1. Stratégie Globale
 
 Notre IA permet d'avoir du nectar le plus rapidement possible pour avoir une partie économique stable, puis va attaquer les autres abeilles pour les ralentir dans leurs progression.
