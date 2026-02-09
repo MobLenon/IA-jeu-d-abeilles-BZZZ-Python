@@ -3,7 +3,7 @@
 
 **Le jeu a été donné il fallait seulement créer l'IA**
 
-**mettre l'IA dans Jeu_BZZZ_IA/bzzz_moteur/ia**
+**mettre l'IA dans Jeu_Bzzz_IA/bzzz_moteur/ia**
 
 
 1. Stratégie Globale
